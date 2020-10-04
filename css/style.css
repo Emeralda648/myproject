@@ -1,0 +1,340 @@
+.logo{
+	width: 100px;
+
+}
+
+header{
+	padding-left: 40%;
+	font-family: Edwardian Script ITC;
+	display: inline-block;
+	font-size: 30px;
+	box-shadow:5px 5px 5px grey;
+	background-color: #e6e6ff;
+	width: 100%;
+
+}
+header div{
+	display: inline-block;
+}
+
+.divlogo{
+	background-color: #a6a6a6;
+	color: white;
+	padding-right: 30px;
+
+}
+
+.granddiv{
+	background-image: linear-gradient( #ffffe6,  #ffe6ee, #e0ebeb);
+}
+
+.col-md-3 a: hover{
+	background-color: white;
+
+
+}
+
+.barrenav{
+	background-image: linear-gradient(to right, orange, pink, violet);
+	font-family: Rockwell;
+	text-align: center;
+	height: 40px;
+	font-size: 30px;
+	padding-top: 0px;
+	margin-top: 7px;
+	
+
+}
+
+.barrenav a{
+	color: black;
+}
+
+
+div .leftcontent{
+	margin-top: 30px;
+	box-shadow: 10px 10px 5px grey;
+	border-radius: 20px;
+	border: 1px solid black;
+	background-color: white;
+
+}
+
+h4{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.formulaire{
+	background-color:#bfbfbf;
+	font-family: rockwell;
+
+
+}
+
+.formulaire label{
+	margin:7px;
+	width: 100%;
+	font-size: 15px;
+	color: white;
+}
+
+.formulaire input{
+	width: 100%;
+	border-radius: 10px;
+	height: 40px;
+	background-color: #bfbfbf;
+	border: 1px solid white;
+}
+
+.formulaire textarea{
+	width: 100%;
+	border-radius: 10px;
+	background-color: #bfbfbf;
+	border: 1px solid white;
+}
+
+
+button{
+	width: 100%;
+	text-align: center;
+
+}
+
+.image1{
+	width:100%;
+}
+
+.paragraphe{
+	margin-top: 35%;
+	font-family: rockwell;
+	font-size: 17px;
+}
+
+
+.image{
+	width: 100%;
+	border: 0px;
+	/*margin-top: 10px;*/
+}
+
+.collage{
+	width: 100%;
+	display: inline-block;
+}
+
+.collage img{
+	width:50%;
+
+}
+
+div .pagination{
+	margin-top: 20px;
+}
+
+.pagination a{
+	border: 1px solid black;
+	margin-top: 5px;
+	margin-left:5px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+h1{
+	font-family: Copperplate Gothic Light;
+	text-align: center;
+	text-shadow: 2px 2px #5c5c8a;
+	margin: 30px;
+	width: 100%;
+	margin-left: 20%;
+
+}
+
+h2{
+	text-align: center;
+	color: #000000;
+	font-family: Bookman Old Style;
+	margin: 30px;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 30px;
+	height: 500px;
+	
+}
+table tr{
+	border: 1px solid #d1d1e0;
+}
+
+th{
+	background-color: #778899;
+	color: white;
+	
+	font-family: Bodoni MT;
+}
+table td{
+	padding-right: 10px;
+	font-family: Bodoni MT;
+}
+
+.update{
+	color:#4da6ff; 
+}
+
+.dashboard{
+	margin-top: 30px;
+	box-shadow: 10px 10px 5px grey;
+	border-radius: 20px;
+	border: 1px solid black;
+	background-color: white;
+}
+
+.dashboard ul li{
+	list-style-type: none;
+}
+
+.dashboard p{
+
+	color: #4da6ff;
+}
+
+.formulaire2{
+	background-color: #f9e6ff;
+	margin:10px 10px;
+	font-family: Bodoni MT;
+	/*border-radius: 10%;*/
+	/*box-shadow: 10px 10px 5px grey;*/
+}
+
+.formulaire2 label{
+	margin:7px;
+	width: 100%;
+	font-size: 17px;
+	color: black;
+	margin-left: 20px;
+
+}
+.formulaire2 input{
+	width: 100%;
+	/*border-radius: 10px;*/
+	height: 30px;
+	background-color: #b3b3b3;
+	color: white;
+}
+.formulaire2 textarea{
+	width: 100%;
+	background-color: #b3b3b3;
+	color:black;
+}
+
+
+.bouton{
+	width:50%;
+	margin-left: 25%;
+	background-color: #4db8ff;
+
+}
+
+footer{
+	padding-left: 45%;
+	color: grey;
+	border-top: 1px solid;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.h1{
+	font-family: Copperplate Gothic Light;
+	text-align: center;
+	text-shadow: 2px 2px #5c5c8a;
+	margin: 30px;	
+}
+
+.col-md-6{
+	font-family: Rockwell;
+	margin-top: 20px;
+}
+
+.art1{
+	margin-top: 20px;
+	text-align: right;
+}
+
+.image2{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.art2{
+	margin-top: 35px;
+	text-align: right;
+}
+
+.art3{
+	text-align: right;
+
+}
+
+.image3{
+	margin-top: 25px;
+	width: 100%;
+}
+
+.art4{
+	text-align: right;
+}
+
+.image4{
+	margin-top: 25px;
+	width: 100%;
+}
+
+.formulaire3{
+	background-color:#99ccff;
+	font-family: rockwell;
+
+}
+
+.formulaire3 label{
+	margin:7px;
+	width: 100%;
+	font-size: 15px;
+	color: white;
+}
+
+.formulaire3 input{
+	width: 100%;
+	border-radius: 10px;
+	height: 40px;
+	background-color: #99ccff;
+	border: 1px solid white;
+}
+
+.formulaire3 textarea{
+	width: 100%;
+	border-radius: 10px;
+	background-color: #99ccff;
+}
+
+.text{
+	font-family: rockwell;
+	margin-top:100px;
+	font-size: 17px;
+	/*background-color: white;*/
+	width: 100%;
+	padding: 20px 20px;
+}
+ol li{
+	font-size: 18px;
+	font-family: rockwell;
+}
+
+.colonne{
+	width: 100px;
+}
